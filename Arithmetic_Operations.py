@@ -1,0 +1,7 @@
+first_number = int(input("A: "))
+second_number = int(input("B: "))
+print("Sum = ",first_number+second_number)
+print("Difference = ",first_number-second_number)
+print("Product = ",first_number*second_number)
+print("Division = ",first_number/second_number)
+print("Reminder = ",first_number%second_number)
