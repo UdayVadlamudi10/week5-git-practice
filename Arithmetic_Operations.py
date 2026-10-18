@@ -1,5 +1,5 @@
-first_number = int(input("A: "))
-second_number = int(input("B: "))
+first_number = int(input("First Number: "))
+second_number = int(input("Second Number: "))
 print("Sum = ",first_number+second_number)
 print("Difference = ",first_number-second_number)
 print("Product = ",first_number*second_number)
