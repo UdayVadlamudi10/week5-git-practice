@@ -1,4 +1,4 @@
-# # Arithmetic Operations
+# Arithmetic Operations
 # My Git Practice
 # This is my practice project
 # This program does the arithmetic operations
